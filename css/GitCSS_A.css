@@ -6,9 +6,13 @@
 .blockbody
 {
 	background-color: #92bfb1;
-	margin: 25px;
 }
 .head
 {
  text-align: center;
+}
+.paragraphspace
+{
+ margin: 50px; 
+ 
 }
