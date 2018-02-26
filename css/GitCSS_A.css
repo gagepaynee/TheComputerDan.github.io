@@ -13,6 +13,6 @@
 }
 .paragraphspace
 {
- margin: 30 px;
- 
+ left-margin: 30px;
+ right-margin: 30px;
 }
